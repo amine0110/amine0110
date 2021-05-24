@@ -29,14 +29,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [A Tkinter Application that Crops a Random Shape from an Image](https://pycad.co/a-tkinter-application-that-crops-a-random-shape-from-an-image/)
+- [How to Convert a PDF into an Audio](https://pycad.co/how-to-convert-a-pdf-into-an-audio/)
+- [How to Look at Spectral Images? A Tentative Use of Metameric Black for Spectral Image Visualization](https://pycad.co/how-to-look-at-spectral-images-a-tentative-use-of-metameric-black-for-spectral-image-visualization/)
+- [OpenCV for Machine Learning Using C++](https://pycad.co/opencv-for-machine-learning-using-c/)
+- [Face and Circle Detection using OpenCV with C++](https://pycad.co/face-and-circle-detection-using-opencv-with-c/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://pycad.co/blog/)
 
 ---
 
