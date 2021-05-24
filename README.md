@@ -15,14 +15,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
-- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
-- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
-- [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
-- [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
+- [Python | A Tkinter Application that Crops a Random Shape from an Image](https://www.youtube.com/watch?v=tivfxjw_HBg&t=8s&ab_channel=pycad)
+- [How to draw on a canvas or image in Tkinter using the mouse](https://www.youtube.com/watch?v=4ehHuDDH-uc&t=18s&ab_channel=pycad)
+- [OpenCV Installation and Test in C++ in Visual Studio 2019,17,15 | Goodbye to the Installation Issue](https://www.youtube.com/watch?v=IzaXRux_FAY&ab_channel=pycad)
+- [I built an e-learning platform without any line of code using WIX](https://www.youtube.com/watch?v=rZkGfRa-8jI&t=114s&ab_channel=pycad)
+- [I built a graphical user interface using Python and Tkinter](https://www.youtube.com/watch?v=DoxF0XofzfQ&t=39s&ab_channel=pycad)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ)
 
 ---
 
