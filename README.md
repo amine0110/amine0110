@@ -31,6 +31,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Onnxruntime & OpenCV for C++](https://pycad.co/onnxruntime-opencv-for-c/)
 - [Automatic Liver Segmentation — Part 1/4: Introduction](https://pycad.co/liver-segmentation-part-1/)
 - [How to Convert a Nifti File into Dicom Series Using Python](https://pycad.co/nifti2dicom/)
 - [How Backpropagation Works in Machine Learning](https://pycad.co/how-backpropagation-works-in-machine-learning/)
