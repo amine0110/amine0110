@@ -15,6 +15,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Install Onnxruntime & OpenCV for C++ with a Few Clicks](https://youtu.be/jpzrq9crbBo)
 - [PyTorch and Monai for AI Healthcare Imaging](https://youtu.be/AU4KlXKKnac)
 - [How to Convert a Nifti File into Dicom Series Using Python](https://youtu.be/xJ27jQVnh1M)
 - [Learn Tkinter from Scratch to Create Desktop Applications](https://youtu.be/Fv82RX4cWW4)
