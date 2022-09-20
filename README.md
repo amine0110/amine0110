@@ -15,6 +15,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Medical Open Network for Artificial Intelligence (MONAI) - Introduction](https://youtu.be/tjLDIbN5k5M)
 - [How to Convert Seq files into Mp4 videos](https://youtu.be/fqjdPgtlov8)
 - [Install Onnxruntime & OpenCV for C++ with a Few Clicks](https://youtu.be/jpzrq9crbBo)
 - [PyTorch and Monai for AI Healthcare Imaging](https://youtu.be/AU4KlXKKnac)
@@ -31,6 +32,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning for Medical Imaging](https://pycad.co/deep-learning-for-medical-imaging-using-monai/)
 - [How to Convert .seq Files into MP4](https://pycad.co/seq-files-into-mp4/)
 - [Fill a Random Shape in an Image Using Python & OpenCV](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/)
 - [Install Onnxruntime & OpenCV for C++](https://pycad.co/onnxruntime-opencv-for-c/)
