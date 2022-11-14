@@ -1,4 +1,4 @@
-### Hi there, I'm Amine [pycad][website] 👋
+### Hi there, I'm Mohammed [pycad][website] 👋
 
 
 ### Connect with me:
@@ -15,14 +15,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dicom Anonymization Using Python](https://youtu.be/M8kGQfN8MgU)
+- [How to Convert Nifti Files into STL Files Using Python](https://youtu.be/xOuOwVeeEYE)
+- [3D Slicer and ITK-snap for Medical Images Visualization and Segmentation](https://youtu.be/GWHJQ-R50YQ)
 - [Medical Open Network for Artificial Intelligence (MONAI) - Introduction](https://youtu.be/tjLDIbN5k5M)
 - [How to Convert Seq files into Mp4 videos](https://youtu.be/fqjdPgtlov8)
 - [Install Onnxruntime & OpenCV for C++ with a Few Clicks](https://youtu.be/jpzrq9crbBo)
 - [PyTorch and Monai for AI Healthcare Imaging](https://youtu.be/AU4KlXKKnac)
 - [How to Convert a Nifti File into Dicom Series Using Python](https://youtu.be/xJ27jQVnh1M)
-- [Learn Tkinter from Scratch to Create Desktop Applications](https://youtu.be/Fv82RX4cWW4)
-- [Take your first steps into the world of C++ language](https://youtu.be/94T4RQiD4Lo)
-- [3D Volumes Augmentation for Tumor Segmentation Using Python & Monai](https://youtu.be/bh9uyUbsj7U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ)
@@ -32,14 +32,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicom Anonymization Using Python](https://pycad.co/dicom-anonymization-using-python/)
+- [How to Convert Nifti Files into STL Files?](https://pycad.co/nifti-to-stl/)
+- [Software to Visualize/Annotate Dicom/Nifti files](https://pycad.co/software-to-visualize-annotate-dicom-nifti-files/)
 - [Deep Learning for Medical Imaging](https://pycad.co/deep-learning-for-medical-imaging-using-monai/)
 - [How to Convert .seq Files into MP4](https://pycad.co/seq-files-into-mp4/)
 - [Fill a Random Shape in an Image Using Python & OpenCV](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/)
 - [Install Onnxruntime & OpenCV for C++](https://pycad.co/onnxruntime-opencv-for-c/)
 - [Automatic Liver Segmentation — Part 1/4: Introduction](https://pycad.co/liver-segmentation-part-1/)
 - [How to Convert a Nifti File into Dicom Series Using Python](https://pycad.co/nifti2dicom/)
-- [How Backpropagation Works in Machine Learning](https://pycad.co/how-backpropagation-works-in-machine-learning/)
-- [What is an Optimizer](https://pycad.co/what-is-an-optimizer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://pycad.co/blog/)
@@ -50,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Amine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amine0110&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amine0110&show_icons=true&hide_border=true" />
 
 </details>
 
