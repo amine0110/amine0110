@@ -12,6 +12,13 @@
 
 ---
 
+### 📖 Medical Imaging E-Book
+This ebook serves as a guide for those who are new to the profession of medical imaging. It provides definitions and resources like where to learn anatomy. Where can you find quality papers? Where can you find good, cost-free datasets? plus more.
+
+Join the waitlist [here](https://astounding-teacher-3608.ck.page/6dff57e0b5).
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -29,7 +36,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Dicom Anonymization Using Python](https://pycad.co/dicom-anonymization-using-python/)
