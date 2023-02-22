@@ -11,6 +11,12 @@
 <br />
 
 ---
+### 📩 Newsletter
+Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
+
+https://pycad.co/join-us/
+
+---
 
 ### 📖 Medical Imaging E-Book
 This ebook serves as a guide for those who are new to the profession of medical imaging. It provides definitions and resources like where to learn anatomy. Where can you find quality papers? Where can you find good, cost-free datasets? plus more.
