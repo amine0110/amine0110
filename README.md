@@ -1,12 +1,4 @@
-### Hi there, I'm Mohammed [pycad][website] 👋
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="pycad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Amine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pycad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![github_readme](https://user-images.githubusercontent.com/37108394/228835257-162da9e0-fdb1-4d9d-97a5-e2189ecde53d.png)](https://pycad.co/medical-imaging-ebook/)
 
 <br />
 
