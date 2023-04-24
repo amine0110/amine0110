@@ -54,21 +54,23 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 
 ### 🏫 Courses
 
-| Title | Domain | Link |
+| Title | Tags | Link |
 | --- | --- | --- |
 | How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [Udemy](https://www.udemy.com/course/how-to-work-with-dicom-using-python/?referralCode=ECBFF2BA3DED3608BE91) |
 | How to Improve Medical Image Classification Results | `Medical Imaging` `Image Classification` `Python` | [YouTube](https://youtu.be/IXJMNGiBWy4) | 
-| Automatic Liver Segmentation Using PyTorch and Monai | `Medical Imaging` `Image Segmentation` `Python` | [YouTube](
+| Automatic Liver Segmentation Using PyTorch and Monai | `Medical Imaging` `Image Segmentation` `Python` | [YouTube](https://youtu.be/AU4KlXKKnac) |
+| Learn Tkinter from Scratch to Create Desktop Applications | `Python` `Tkinter` `GUI` | [YouTube](https://youtu.be/Fv82RX4cWW4) |
+| Learn C++ for Beginners | `C++` `Basics` | [YouTube](https://youtu.be/94T4RQiD4Lo) |
+
+Student's [Testimonials](https://pycad.co/testimonials/).
 
 ---
 
+### :zap: GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amine0110&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amine0110&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://pycad.co/
 [course]: https://www.udemy.com/user/pycad-2/
