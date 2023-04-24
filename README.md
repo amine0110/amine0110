@@ -20,6 +20,7 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Use SAM (Segment Anything Model)?](https://youtu.be/d4aRkCNG_iA)
 - [Dicom Anonymization Using Python](https://youtu.be/M8kGQfN8MgU)
 - [How to Convert Nifti Files into STL Files Using Python](https://youtu.be/xOuOwVeeEYE)
 - [3D Slicer and ITK-snap for Medical Images Visualization and Segmentation](https://youtu.be/GWHJQ-R50YQ)
@@ -27,7 +28,6 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 - [How to Convert Seq files into Mp4 videos](https://youtu.be/fqjdPgtlov8)
 - [Install Onnxruntime & OpenCV for C++ with a Few Clicks](https://youtu.be/jpzrq9crbBo)
 - [PyTorch and Monai for AI Healthcare Imaging](https://youtu.be/AU4KlXKKnac)
-- [How to Convert a Nifti File into Dicom Series Using Python](https://youtu.be/xJ27jQVnh1M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ)
@@ -37,6 +37,7 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SAM for Medical Imaging](https://pycad.co/sam-for-medical-imaging/)
 - [Dicom Anonymization Using Python](https://pycad.co/dicom-anonymization-using-python/)
 - [How to Convert Nifti Files into STL Files?](https://pycad.co/nifti-to-stl/)
 - [Software to Visualize/Annotate Dicom/Nifti files](https://pycad.co/software-to-visualize-annotate-dicom-nifti-files/)
@@ -45,10 +46,19 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 - [Fill a Random Shape in an Image Using Python & OpenCV](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/)
 - [Install Onnxruntime & OpenCV for C++](https://pycad.co/onnxruntime-opencv-for-c/)
 - [Automatic Liver Segmentation — Part 1/4: Introduction](https://pycad.co/liver-segmentation-part-1/)
-- [How to Convert a Nifti File into Dicom Series Using Python](https://pycad.co/nifti2dicom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://pycad.co/blog/)
+
+---
+
+### 🏫 Courses
+
+| Title | Domain | Link |
+| --- | --- | --- |
+| How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [Udemy](https://www.udemy.com/course/how-to-work-with-dicom-using-python/?referralCode=ECBFF2BA3DED3608BE91) |
+| How to Improve Medical Image Classification Results | `Medical Imaging` `Image Classification` `Python` | [YouTube](https://youtu.be/IXJMNGiBWy4) | 
+| Automatic Liver Segmentation Using PyTorch and Monai | `Medical Imaging` `Image Segmentation` `Python` | [YouTube](
 
 ---
 
