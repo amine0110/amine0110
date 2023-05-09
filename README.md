@@ -37,6 +37,8 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medical Imaging Interview Questions Answers](https://pycad.co/medical-imaging-interview-questions-answers/)
+- [Shap-E for Medical Imaging](https://pycad.co/medical-shap-e/)
 - [SAM for Medical Imaging](https://pycad.co/sam-for-medical-imaging/)
 - [Dicom Anonymization Using Python](https://pycad.co/dicom-anonymization-using-python/)
 - [How to Convert Nifti Files into STL Files?](https://pycad.co/nifti-to-stl/)
@@ -44,8 +46,6 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 - [Deep Learning for Medical Imaging](https://pycad.co/deep-learning-for-medical-imaging-using-monai/)
 - [How to Convert .seq Files into MP4](https://pycad.co/seq-files-into-mp4/)
 - [Fill a Random Shape in an Image Using Python & OpenCV](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/)
-- [Install Onnxruntime & OpenCV for C++](https://pycad.co/onnxruntime-opencv-for-c/)
-- [Automatic Liver Segmentation — Part 1/4: Introduction](https://pycad.co/liver-segmentation-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://pycad.co/blog/)
@@ -68,6 +68,7 @@ Student's [Testimonials](https://pycad.co/testimonials/).
 ### 🚀 Tools
 | Name | Description | Access | Code | README | Live Demo |
 | --- | --- | --- | --- | --- | --- |
+| MONAIGPT | A webapp assistant for MONAI documentation | `Free - Demo` | Request | Not available | [Live](https://monaigpt.streamlit.app/) |
 | Medical Conversions | A Python application to do the conversions between the medical imaging data format and normal images | `Free` | [GitHub](https://github.com/amine0110/Medical-Conversions) | [Yes](https://github.com/amine0110/Medical-Conversions/blob/main/README.md) | Not available |
 | Medical Images Visualization With Streamlit | In this small project, I will show you how you can use Streamlit and VTK to create a simple 3D visualizer that allows you to upload and visualize NIFTI files. | `Free` | [GitHub](https://github.com/amine0110/medical-visualization-with-streamlit) | [Yes](https://github.com/amine0110/medical-visualization-with-streamlit/blob/main/README.md) | Not available |
 | Desktop Dicom Visualizer | This application if to visualize the dicoms, change their contrast, anonymize them, convert them to JPG, NIFTI, MP4 | `Paid` | [Udemy](https://www.udemy.com/course/how-to-work-with-dicom-using-python/?referralCode=ECBFF2BA3DED3608BE91) | Soon | Not available |
