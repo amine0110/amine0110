@@ -37,6 +37,7 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating MONAI with Ease: An Introduction to MONAIGPT](https://pycad.co/monaigpt/)
 - [Medical Imaging Interview Questions Answers](https://pycad.co/medical-imaging-interview-questions-answers/)
 - [Shap-E for Medical Imaging](https://pycad.co/medical-shap-e/)
 - [SAM for Medical Imaging](https://pycad.co/sam-for-medical-imaging/)
@@ -45,7 +46,6 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 - [Software to Visualize/Annotate Dicom/Nifti files](https://pycad.co/software-to-visualize-annotate-dicom-nifti-files/)
 - [Deep Learning for Medical Imaging](https://pycad.co/deep-learning-for-medical-imaging-using-monai/)
 - [How to Convert .seq Files into MP4](https://pycad.co/seq-files-into-mp4/)
-- [Fill a Random Shape in an Image Using Python & OpenCV](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://pycad.co/blog/)
