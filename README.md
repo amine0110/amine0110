@@ -56,6 +56,7 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 
 | Title | Tags | Link |
 | --- | --- | --- |
+| How I Built MONAIGPT | `Chatbot` `MONAI` `LangChain` `Chromadb` | [Udemy](https://www.udemy.com/course/building-deploying-an-ai-powered-medical-imaging-chatbot/?referralCode=012D2A624E1E4F787F7A) |
 | Python for Medical Imaging | `Dicom` `NIFTI` `ITK` `SimpleITK` `3D` `Python` | [Udemy](https://www.udemy.com/course/python-programming-for-medical-imaging/?referralCode=4EB87F3DE56679A11DA8) |
 | How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [Udemy](https://www.udemy.com/course/how-to-work-with-dicom-using-python/?referralCode=ECBFF2BA3DED3608BE91) |
 | How to Improve Medical Image Classification Results | `Medical Imaging` `Image Classification` `Python` | [YouTube](https://youtu.be/IXJMNGiBWy4) | 
