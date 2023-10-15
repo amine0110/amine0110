@@ -10,6 +10,13 @@ https://pycad.co/join-us/
 
 ---
 
+### 📝 30 Minutes for 30 Days of Curated Medical Imaging Notebooks
+Discover 54 handpicked medical imaging notebooks, all gathered in just 30 days. From brain tumor detection to simple chest X-rays, dive into the best practical guides out there. Curated by PYCAD, this is your one-stop resource to up your medical imaging game!
+
+Grab it from [here](https://pycad.co/30-30-medical-imaging-notebooks/).
+
+---
+
 ### 📖 Medical Imaging E-Book
 This ebook serves as a guide for those who are new to the profession of medical imaging. It provides definitions and resources like where to learn anatomy. Where can you find quality papers? Where can you find good, cost-free datasets? plus more.
 
