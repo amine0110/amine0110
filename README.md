@@ -41,8 +41,8 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 | Title | Tags | Link |
 | --- | --- | --- |
 | How I Built MONAIGPT | `Chatbot` `MONAI` `LangChain` `Chromadb` | [Udemy](https://www.udemy.com/course/building-deploying-an-ai-powered-medical-imaging-chatbot/?referralCode=012D2A624E1E4F787F7A) |
-| Python for Medical Imaging | `Dicom` `NIFTI` `ITK` `SimpleITK` `3D` `Python` | [Udemy](https://www.udemy.com/course/python-programming-for-medical-imaging/?referralCode=4EB87F3DE56679A11DA8) |
-| How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [Udemy](https://www.udemy.com/course/how-to-work-with-dicom-using-python/?referralCode=ECBFF2BA3DED3608BE91) |
+| Python for Medical Imaging | `Dicom` `NIFTI` `ITK` `SimpleITK` `3D` `Python` | [YouTube](https://youtu.be/i0Lt147_dGM?si=EwPV1G42ITlQmxQc) |
+| How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [YouTube](https://youtu.be/N-3-AOU54yE?si=608mOgqV17TWKZwy) |
 | How to Improve Medical Image Classification Results | `Medical Imaging` `Image Classification` `Python` | [YouTube](https://youtu.be/IXJMNGiBWy4) | 
 | Automatic Liver Segmentation Using PyTorch and Monai | `Medical Imaging` `Image Segmentation` `Python` | [YouTube](https://youtu.be/AU4KlXKKnac) |
 | Learn Tkinter from Scratch to Create Desktop Applications | `Python` `Tkinter` `GUI` | [YouTube](https://youtu.be/Fv82RX4cWW4) |
