@@ -40,6 +40,7 @@ Grab it from [here](https://pycad.co/medical-imaging-ebook/).
 
 | Title | Tags | Link |
 | --- | --- | --- |
+| Spine Segmentation using nnUNet | `NIFTI`  `SimpleITK` `3D` `Python` `nnUNet` `Segmentation` | [YouTube](https://youtu.be/rZfngRIhEcQ?si=NMxS54ulA6LBUv5d) |
 | How I Built MONAIGPT | `Chatbot` `MONAI` `LangChain` `Chromadb` | [Udemy](https://www.udemy.com/course/building-deploying-an-ai-powered-medical-imaging-chatbot/?referralCode=012D2A624E1E4F787F7A) |
 | Python for Medical Imaging | `Dicom` `NIFTI` `ITK` `SimpleITK` `3D` `Python` | [YouTube](https://youtu.be/i0Lt147_dGM?si=EwPV1G42ITlQmxQc) |
 | How to Work With Dicom Using Python | `Dicom` `Medical Imaging` `Python` | [YouTube](https://youtu.be/N-3-AOU54yE?si=608mOgqV17TWKZwy) |
