@@ -2,14 +2,6 @@
 
 <br />
 
----
-### 📩 Newsletter
-Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
-
-https://pycad.co/join-us/
-
----
-
 ### 📝 30 Minutes for 30 Days of Curated Medical Imaging Notebooks
 Discover 54 handpicked medical imaging notebooks, all gathered in just 30 days. From brain tumor detection to simple chest X-rays, dive into the best practical guides out there. Curated by PYCAD, this is your one-stop resource to up your medical imaging game!
 
