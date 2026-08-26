@@ -44,5 +44,5 @@ More: [pycad.co](https://pycad.co)
 <p align="center">
   <a href="https://pycad.co">Website</a> ·
   <a href="https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ">YouTube</a> ·
-  <a href="https://www.linkedin.com/in/mohammed-el-amine-mokhtari-5729a2115/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohammed-el-amine-mokhtari/">LinkedIn</a>
 </p>
